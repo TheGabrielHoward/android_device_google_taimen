@@ -49,4 +49,4 @@ PRODUCT_MANUFACTURER := Google
 PRODUCT_BRAND := google
 PRODUCT_NAME := hentai_taimen
 PRODUCT_DEVICE := taimen
-PRODUCT_MODEL := Pixel 2 XL
+PRODUCT_MODEL := Pixel 5a
